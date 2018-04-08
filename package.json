@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap4in30minutes",
+  "version": "1.0.0",
+  "description": "Bootstrap4in30minutes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbuhl/Bootstrap4in30minutes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbuhl/Bootstrap4in30minutes/issues"
+  },
+  "homepage": "https://github.com/sbuhl/Bootstrap4in30minutes#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
